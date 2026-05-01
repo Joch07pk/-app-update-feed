@@ -30,6 +30,8 @@ def save_json(path, data):
 def load_watchlist():
     token   = os.environ.get("GH_GIST_TOKEN", "")
     gist_id = os.environ.get("GIST_ID", "")
+    print(f"  GH_GIST_TOKEN aanwezig: {bool(token)}")
+    print(f"  GIST_ID aanwezig: {bool(gist_id)}")
     if not token or not gist_id:
         print("Fout: GH_GIST_TOKEN of GIST_ID niet ingesteld.")
         return {"apps": []}
