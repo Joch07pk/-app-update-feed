@@ -41,7 +41,9 @@ def load_watchlist():
     req.add_header("Accept", "application/vnd.github+json")
     with urllib.request.urlopen(req, timeout=15) as resp:
         data = json.loads(resp.read().decode("utf-8"))
-    content = data["files"][GIST_FILE]["content"]
+    # Pak het eerste bestand in de Gist, ongeacht de naam
+    first_file = next(iter(data["files"].values()))
+    content = first_file["content"]
     return json.loads(content)
 
 def fetch_app_info(app_id):
