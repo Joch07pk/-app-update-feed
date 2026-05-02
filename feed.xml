@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>App Store Updates</title>
+    <link>https://apps.apple.com</link>
+    <description>Updates voor gevolgde App Store apps</description>
+    <language>nl</language>
+    <lastBuildDate>Sat, 02 May 2026 13:33:03 +0000</lastBuildDate>
+    <item>
+      <title>feeeed: rss reader and more 25</title>
+      <link>https://apps.apple.com/nl/app/id1600187490</link>
+      <description>&lt;![CDATA[&lt;p&gt;&lt;strong&gt;feeeed: rss reader and more&lt;/strong&gt; bijgewerkt naar &lt;strong&gt;25&lt;/strong&gt; (was 1.0.0).&lt;/p&gt;&lt;p&gt;Bug fixes!&lt;/p&gt;&lt;p&gt;&lt;a href='https://apps.apple.com/nl/app/id1600187490'&gt;Bekijk in App Store&lt;/a&gt;&lt;/p&gt;]]&gt;</description>
+      <pubDate>Sat, 02 May 2026 13:33:03 +0000</pubDate>
+      <guid isPermaLink="false">1600187490-25-20260502</guid>
+    </item>
+  </channel>
+</rss>
