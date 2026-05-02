@@ -5,7 +5,17 @@
     <link>https://apps.apple.com</link>
     <description>Updates voor gevolgde App Store apps</description>
     <language>nl</language>
-    <lastBuildDate>Sat, 02 May 2026 13:50:33 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 02 May 2026 13:54:00 +0000</lastBuildDate>
+    <item>
+      <title>News Explorer 2.2.8</title>
+      <link>https://apps.apple.com/nl/app/id1032668306</link>
+      <description>&lt;![CDATA[&lt;p&gt;&lt;strong&gt;News Explorer&lt;/strong&gt; bijgewerkt naar &lt;strong&gt;2.2.8&lt;/strong&gt; (was 2.2.7).&lt;/p&gt;&lt;p&gt;• Restored sharing to Raindrop.
+• Notifications are now grouped by feed folder.
+• Improved implementation of “Auto correct invalid feed data” option.
+• Fixed display of articles without a title and summary in article list.&lt;/p&gt;&lt;p&gt;&lt;a href='https://apps.apple.com/nl/app/id1032668306'&gt;Bekijk in App Store&lt;/a&gt;&lt;/p&gt;]]&gt;</description>
+      <pubDate>Sat, 02 May 2026 13:54:00 +0000</pubDate>
+      <guid isPermaLink="false">1032668306-2.2.8-20260502</guid>
+    </item>
     <item>
       <title>feeeed: rss reader and more 25</title>
       <link>https://apps.apple.com/nl/app/id1600187490</link>
